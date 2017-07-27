@@ -1,15 +1,17 @@
 # DeepNLP
 
 0) ### *Intro* 
-    * backprop, 
-    * theano,
-    * mnist classification;
+    * Neural networks, backprop, optimizers;
+    * Tensorflow intro;
+    * Mnist classification with logistic regression and MLP;
 
-1) ### *Embeddings* 
+1) ### *Embeddings & Keras* 
     * Text classification: bag of words, TF-IDF
     * NLTK: lemmatization, stemming;
-    * w2vec:skip gram & cbow;
+    * w2vec: skip gram & cbow;
     * fasttext, glove;
+    * Intro to Keras;
+    * Skip gram or CBOW with Keras;
 
 2) ### *Convolutions* 
     * Text classification with embeddings;
