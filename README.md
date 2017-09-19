@@ -1,5 +1,7 @@
 # DeepNLP
 
+## What had to be done:
+
 0) ### *Intro* 
     * Neural networks, backprop, optimizers;
     * Tensorflow intro;
@@ -31,3 +33,27 @@
     * Image Captioning
     * Modern architectures overview
     * (need to update)
+
+## But what is really done:
+
+0) ### *Intro* 
+    * Neural networks, backprop, optimizers;
+    * Tensorflow intro;
+    * Mnist classification with logistic regression and MLP;
+
+1) ### *Embeddings & Keras* 
+    * Text classification: bag of words, TF-IDF
+    * NLTK: lemmatization, stemming;
+    * w2vec: skip gram & cbow;
+    * fasttext;
+    * Skip gram & CBOW with TF;
+      * with minor bugs
+
+2) ### *Convolutions* 
+    * Intro to Keras;
+    * 1D convolutions;
+    * Avito classification task;
+
+3) ### *RNN* 
+    * vanilla RNN intro
+    * names generation with RNN
